@@ -1,0 +1,6 @@
+review,clean_review,tokens,token_count,sentences,filtered_tokens
+Excellent product!!! Loved it. Visit https://example.com,excellent product loved it visit,"['excellent', 'product', 'loved', 'it', 'visit']",5,"['Excellent product!!!', 'Loved it.', 'Visit https://example.com']","['excellent', 'product', 'loved', 'visit']"
+BAD   quality... not recommended!,bad quality not recommended,"['bad', 'quality', 'not', 'recommended']",4,['BAD   quality... not recommended!'],"['bad', 'quality', 'not', 'recommended']"
+FastAPI is amazing for AI backend development.,fastapi is amazing for ai backend development,"['fastapi', 'is', 'amazing', 'for', 'ai', 'backend', 'development']",7,['FastAPI is amazing for AI backend development.'],"['fastapi', 'amazing', 'ai', 'backend', 'development']"
+I do not recommend this product.,i do not recommend this product,"['i', 'do', 'not', 'recommend', 'this', 'product']",6,['I do not recommend this product.'],"['not', 'recommend', 'product']"
+"The product is good, but delivery was very slow.",the product is good but delivery was very slow,"['the', 'product', 'is', 'good', 'but', 'delivery', 'was', 'very', 'slow']",9,"['The product is good, but delivery was very slow.']","['product', 'good', 'delivery', 'slow']"
