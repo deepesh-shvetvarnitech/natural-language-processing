@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fastapi
 uvicorn
 pandas
@@ -7,3 +8,13 @@ spacy
 nltk
 pytest
 httpx
+=======
+
+nltk
+spacy
+pandas
+scikit-learn
+transformers
+torch
+pytest
+>>>>>>> 007e1929c7273184b54fb61fde66be5faa5c048c
