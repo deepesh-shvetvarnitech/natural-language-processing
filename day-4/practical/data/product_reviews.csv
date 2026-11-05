@@ -1,0 +1,31 @@
+review_id,review,category
+R001,battery lasts all day and charges quickly,electronics
+R002,the phone battery life is excellent,electronics
+R003,camera takes sharp photos in low light,electronics
+R004,the screen is bright and easy to read,electronics
+R005,wireless headphones have clear sound and deep bass,electronics
+R006,the laptop runs fast and the keyboard feels comfortable,electronics
+R007,charging cable stopped working after two days,electronics
+R008,the speaker sound is loud but distorted,electronics
+R009,this moisturizer makes my skin soft and hydrated,beauty
+R010,face cream has a pleasant smell and absorbs quickly,beauty
+R011,the shampoo leaves my hair smooth and shiny,beauty
+R012,this sunscreen feels light and is not greasy,beauty
+R013,the lipstick color is beautiful and lasts long,beauty
+R014,the lotion caused irritation and dryness,beauty
+R015,comfortable running shoes with excellent grip,clothing
+R016,the shirt fabric is soft and fits perfectly,clothing
+R017,these jeans are durable and look stylish,clothing
+R018,the jacket is warm but too heavy,clothing
+R019,shoes are tight and uncomfortable for walking,clothing
+R020,the cotton dress is lightweight and breathable,clothing
+R021,coffee maker brews rich coffee in minutes,home
+R022,the vacuum cleaner picks up dust very well,home
+R023,this kitchen blender is powerful and easy to clean,home
+R024,the blanket is soft warm and cozy,home
+R025,the chair is sturdy and comfortable to sit on,home
+R026,the toaster burns bread and is difficult to use,home
+R027,fast delivery and the package arrived safely,service
+R028,customer support solved my issue quickly,service
+R029,the product arrived late and the box was damaged,service
+R030,refund process was simple and the seller was helpful,service

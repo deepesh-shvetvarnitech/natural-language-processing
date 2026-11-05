@@ -1,0 +1,31 @@
+review_id,review,category,clean_review
+R001,battery lasts all day and charges quickly,electronics,battery lasts all day and charges quickly
+R002,the phone battery life is excellent,electronics,the phone battery life is excellent
+R003,camera takes sharp photos in low light,electronics,camera takes sharp photos in low light
+R004,the screen is bright and easy to read,electronics,the screen is bright and easy to read
+R005,wireless headphones have clear sound and deep bass,electronics,wireless headphones have clear sound and deep bass
+R006,the laptop runs fast and the keyboard feels comfortable,electronics,the laptop runs fast and the keyboard feels comfortable
+R007,charging cable stopped working after two days,electronics,charging cable stopped working after two days
+R008,the speaker sound is loud but distorted,electronics,the speaker sound is loud but distorted
+R009,this moisturizer makes my skin soft and hydrated,beauty,this moisturizer makes my skin soft and hydrated
+R010,face cream has a pleasant smell and absorbs quickly,beauty,face cream has a pleasant smell and absorbs quickly
+R011,the shampoo leaves my hair smooth and shiny,beauty,the shampoo leaves my hair smooth and shiny
+R012,this sunscreen feels light and is not greasy,beauty,this sunscreen feels light and is not greasy
+R013,the lipstick color is beautiful and lasts long,beauty,the lipstick color is beautiful and lasts long
+R014,the lotion caused irritation and dryness,beauty,the lotion caused irritation and dryness
+R015,comfortable running shoes with excellent grip,clothing,comfortable running shoes with excellent grip
+R016,the shirt fabric is soft and fits perfectly,clothing,the shirt fabric is soft and fits perfectly
+R017,these jeans are durable and look stylish,clothing,these jeans are durable and look stylish
+R018,the jacket is warm but too heavy,clothing,the jacket is warm but too heavy
+R019,shoes are tight and uncomfortable for walking,clothing,shoes are tight and uncomfortable for walking
+R020,the cotton dress is lightweight and breathable,clothing,the cotton dress is lightweight and breathable
+R021,coffee maker brews rich coffee in minutes,home,coffee maker brews rich coffee in minutes
+R022,the vacuum cleaner picks up dust very well,home,the vacuum cleaner picks up dust very well
+R023,this kitchen blender is powerful and easy to clean,home,this kitchen blender is powerful and easy to clean
+R024,the blanket is soft warm and cozy,home,the blanket is soft warm and cozy
+R025,the chair is sturdy and comfortable to sit on,home,the chair is sturdy and comfortable to sit on
+R026,the toaster burns bread and is difficult to use,home,the toaster burns bread and is difficult to use
+R027,fast delivery and the package arrived safely,service,fast delivery and the package arrived safely
+R028,customer support solved my issue quickly,service,customer support solved my issue quickly
+R029,the product arrived late and the box was damaged,service,the product arrived late and the box was damaged
+R030,refund process was simple and the seller was helpful,service,refund process was simple and the seller was helpful
