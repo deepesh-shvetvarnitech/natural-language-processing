@@ -1,0 +1,29 @@
+{
+  "brands": [
+    "Samsung",
+    "Apple",
+    "OnePlus",
+    "Nike",
+    "Adidas",
+    "Sony"
+  ],
+  "products": [
+    "iPhone 15",
+    "Galaxy S24",
+    "AirPods Pro",
+    "running shoes",
+    "Bluetooth speaker"
+  ],
+  "issues": [
+    "battery drain",
+    "poor camera quality",
+    "late delivery",
+    "screen flickering",
+    "poor battery life",
+    "bad customer support",
+    "stopped working",
+    "overheating",
+    "poor sound quality",
+    "unhelpful support"
+  ]
+}
